@@ -19,10 +19,10 @@ Aplicación de escritorio desarrollada en Java para la gestión de clientes de u
 ## Estructura del proyecto
 
 PelucqueriaCaninajulio/
-├── IGU/                    # Interfaz Gráfica de Usuario
-├── LOGICA/                 # Lógica de negocio
-├── PERSISTENCIA/           # Manejo de base de datos
-└── PelucqueriaCaninajulio.java  # Clase principal
+- ├── IGU/                   
+- ├── LOGICA/                
+- ├── PERSISTENCIA/           
+- └── PelucqueriaCaninajulio.java  
 
 ## Requisitos del sistema
 - Java JDK 8 o superior
