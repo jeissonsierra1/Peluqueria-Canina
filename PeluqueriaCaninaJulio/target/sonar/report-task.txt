@@ -1,0 +1,6 @@
+projectKey=PeluCanina
+serverUrl=http://localhost:9000
+serverVersion=25.8.0.112029
+dashboardUrl=http://localhost:9000/dashboard?id=PeluCanina
+ceTaskId=47f7a25c-3ad4-440a-8559-f1549ac0b3eb
+ceTaskUrl=http://localhost:9000/api/ce/task?id=47f7a25c-3ad4-440a-8559-f1549ac0b3eb
